@@ -1,3 +1,7 @@
 tạo file b trên remote
+
 	
 them mơi dòng này trên máy tính
+
+thêm mới dòng này trên remote
+
