@@ -1,3 +1,7 @@
 file a lúc 8h35
 thêm dòng này vào file a.txt
+
 chỉnh sửa file này trên máy tính bởi pl
+
+chỉnh sửa file a.txt trên remote
+
