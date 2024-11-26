@@ -1,1 +1,2 @@
 file a lúc 8h35
+thêm dòng này vào file a.txt
